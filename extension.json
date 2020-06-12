@@ -1,0 +1,35 @@
+{
+  "id": "alstoremeria",
+  "version": "0.1.0",
+  "name": "ALSTOREMERIA",
+  "author": "某昨P",
+  "description": "幸福論誕生",
+  "preview": "preview.png",
+  "resourcepack": [
+    {
+      "from": "extendRes/items/mjp_orange.jpg",
+      "to": "mjp/mjp_item.png",
+      "all-servers": true
+    },
+    {
+      "from": "myres2/mjp/mjp_default/preview.png",
+      "to": "mjp/preview.png",
+      "all-servers": true
+    },
+    {
+      "from": "scene/Assets/Resource/mjpai/mjp_default/mjp.png",
+      "to": "mjp/mjp.png",
+      "all-servers": true
+    },
+    {
+      "from": "scene/Assets/Resource/mjpai/mjp_default/hand_ui.png",
+      "to": "mjp/hand_ui.png",
+      "all-servers": true
+    },
+    {
+      "from": "res/atlas/myres2/mjp/mjp_default/ui.png",
+      "to": "mjp/ui.png",
+      "all-servers": true
+    }
+  ]
+}
